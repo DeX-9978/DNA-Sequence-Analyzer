@@ -1,3 +1,5 @@
+#install matplotlib in your terminal first
+#pip install matplotlib
 import matplotlib.pyplot as plt
 
 # Define a function to read and clean the DNA sequence from a FASTA file

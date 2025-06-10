@@ -22,6 +22,8 @@ This project was created as part of my journey to improve programming skills in 
 - ✅ Validates for only A, T, G, C characters
 - ✅ Computes GC and AT content
 - ✅ Plots nucleotide frequencies
+- ✅ Generates the reverse complement struture of the DNA sequence
+
 
 ---
 
